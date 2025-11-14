@@ -1,0 +1,7 @@
+streamlit==1.28.0
+pandas==2.0.3
+numpy==1.24.3
+matplotlib==3.7.2
+statsmodels==0.14.0
+tensorflow==2.13.0
+scikit-learn==1.3.0
